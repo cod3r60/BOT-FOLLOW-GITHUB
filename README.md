@@ -41,7 +41,7 @@ Follow these instructions to get the project up and running on your local machin
     Open your terminal and run the following command:
     ```sh
     git clone [https://github.com/Nhazlipse/BOT-FOLLOW-GITHUB.git](https://github.com/Nhazlipse/BOT-FOLLOW-GITHUB.git)
-    cd Your-Repository-Name
+    cd BOT-FOLLOW-GITHUB
     ```
 
 2.  **Create a virtual environment (Recommended):**
